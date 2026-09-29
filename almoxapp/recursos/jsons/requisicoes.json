@@ -1,0 +1,108 @@
+{
+  "requisicoes": [
+    {
+      "_id": 1,
+      "numero": "REQ-2026-001",
+      "obraId": 1,
+      "solicitante": { "nome": "Ana Ribeiro", "email": "ana.ribeiro@construtora.com.br" },
+      "data": "2026-09-08T07:40:00",
+      "status": "entregue",
+      "justificativa": "Concretagem das sapatas do bloco A prevista para esta semana.",
+      "itens": [
+        { "materialId": 1, "quantidade": 40 },
+        { "materialId": 2, "quantidade": 6 },
+        { "materialId": 3, "quantidade": 4 }
+      ]
+    },
+    {
+      "_id": 2,
+      "numero": "REQ-2026-002",
+      "obraId": 2,
+      "solicitante": { "nome": "Paulo Tavares", "email": "paulo.tavares@construtora.com.br" },
+      "data": "2026-09-10T09:15:00",
+      "status": "aprovada",
+      "justificativa": "Montagem da armadura dos pilares do galpão.",
+      "itens": [
+        { "materialId": 5, "quantidade": 60 },
+        { "materialId": 6, "quantidade": 15 }
+      ]
+    },
+    {
+      "_id": 3,
+      "numero": "REQ-2026-003",
+      "obraId": 1,
+      "solicitante": { "nome": "Ana Ribeiro", "email": "ana.ribeiro@construtora.com.br" },
+      "data": "2026-09-14T13:05:00",
+      "status": "pendente",
+      "justificativa": "Início da alvenaria do primeiro pavimento.",
+      "itens": [
+        { "materialId": 4, "quantidade": 1200 },
+        { "materialId": 11, "quantidade": 20 }
+      ]
+    },
+    {
+      "_id": 4,
+      "numero": "REQ-2026-004",
+      "obraId": 3,
+      "solicitante": { "nome": "Juliana Freire", "email": "juliana.freire@construtora.com.br" },
+      "data": "2026-09-15T08:00:00",
+      "status": "recusada",
+      "justificativa": "Pintura das salas de aula do bloco novo.",
+      "itens": [
+        { "materialId": 10, "quantidade": 18 }
+      ]
+    },
+    {
+      "_id": 5,
+      "numero": "REQ-2026-005",
+      "obraId": 2,
+      "solicitante": { "nome": "Paulo Tavares", "email": "paulo.tavares@construtora.com.br" },
+      "data": "2026-09-17T16:30:00",
+      "status": "pendente",
+      "justificativa": "Reposição de EPI e consumíveis da equipe de corte.",
+      "itens": [
+        { "materialId": 14, "quantidade": 12 },
+        { "materialId": 15, "quantidade": 20 }
+      ]
+    },
+    {
+      "_id": 6,
+      "numero": "REQ-2026-006",
+      "obraId": 3,
+      "solicitante": { "nome": "Juliana Freire", "email": "juliana.freire@construtora.com.br" },
+      "data": "2026-09-19T10:20:00",
+      "status": "aprovada",
+      "justificativa": "Troca da rede de esgoto dos banheiros.",
+      "itens": [
+        { "materialId": 12, "quantidade": 16 },
+        { "materialId": 9, "quantidade": 25 }
+      ]
+    },
+    {
+      "_id": 7,
+      "numero": "REQ-2026-007",
+      "obraId": 1,
+      "solicitante": { "nome": "Ana Ribeiro", "email": "ana.ribeiro@construtora.com.br" },
+      "data": "2026-09-22T07:55:00",
+      "status": "entregue",
+      "justificativa": "Fôrmas de madeira para as vigas do segundo pavimento.",
+      "itens": [
+        { "materialId": 8, "quantidade": 90 },
+        { "materialId": 7, "quantidade": 10 }
+      ]
+    },
+    {
+      "_id": 8,
+      "numero": "REQ-2026-008",
+      "obraId": 2,
+      "solicitante": { "nome": "Marcos Andrade", "email": "marcos.andrade@construtora.com.br" },
+      "data": "2026-09-25T14:10:00",
+      "status": "pendente",
+      "justificativa": "Instalação elétrica provisória do canteiro.",
+      "itens": [
+        { "materialId": 13, "quantidade": 150 },
+        { "materialId": 6, "quantidade": 5 }
+      ]
+    }
+  ]
+}

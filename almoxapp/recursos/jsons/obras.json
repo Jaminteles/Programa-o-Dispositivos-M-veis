@@ -1,0 +1,22 @@
+{
+  "obras": [
+    {
+      "_id": 1,
+      "nome": "Residencial Vista Alegre",
+      "endereco": "Rua das Acácias, 120 - Vitória da Conquista/BA",
+      "responsavel": "Carlos Menezes"
+    },
+    {
+      "_id": 2,
+      "nome": "Galpão Industrial Norte",
+      "endereco": "Rodovia BA-262, km 8 - Vitória da Conquista/BA",
+      "responsavel": "Fernanda Lopes"
+    },
+    {
+      "_id": 3,
+      "nome": "Reforma da Escola Municipal Sul",
+      "endereco": "Avenida Brasil, 455 - Barra do Choça/BA",
+      "responsavel": "Rita Campos"
+    }
+  ]
+}

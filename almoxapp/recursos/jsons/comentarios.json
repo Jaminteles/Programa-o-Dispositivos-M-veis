@@ -1,0 +1,74 @@
+{
+  "comentarios": [
+    {
+      "_id": 1,
+      "requisicaoId": 1,
+      "user": { "email": "marcos.andrade@construtora.com.br", "name": "Marcos Andrade" },
+      "datetime": "2026-09-08T10:12:00",
+      "content": "Material separado e liberado para retirada no portão 2."
+    },
+    {
+      "_id": 2,
+      "requisicaoId": 1,
+      "user": { "email": "ana.ribeiro@construtora.com.br", "name": "Ana Ribeiro" },
+      "datetime": "2026-09-08T15:47:00",
+      "content": "Recebido na obra, conferido item a item. Obrigada!"
+    },
+    {
+      "_id": 3,
+      "requisicaoId": 2,
+      "user": { "email": "marcos.andrade@construtora.com.br", "name": "Marcos Andrade" },
+      "datetime": "2026-09-10T11:30:00",
+      "content": "Aprovada. A entrega depende do caminhão que volta da obra 3."
+    },
+    {
+      "_id": 4,
+      "requisicaoId": 3,
+      "user": { "email": "ana.ribeiro@construtora.com.br", "name": "Ana Ribeiro" },
+      "datetime": "2026-09-14T13:20:00",
+      "content": "Se possível, entregar antes de quinta-feira."
+    },
+    {
+      "_id": 5,
+      "requisicaoId": 3,
+      "user": { "email": "paulo.tavares@construtora.com.br", "name": "Paulo Tavares" },
+      "datetime": "2026-09-15T08:44:00",
+      "content": "Sobrou argamassa aqui na obra 2, dá para remanejar."
+    },
+    {
+      "_id": 6,
+      "requisicaoId": 4,
+      "user": { "email": "marcos.andrade@construtora.com.br", "name": "Marcos Andrade" },
+      "datetime": "2026-09-15T09:05:00",
+      "content": "Recusada: saldo insuficiente de tinta. Refaça com 10 latas."
+    },
+    {
+      "_id": 7,
+      "requisicaoId": 5,
+      "user": { "email": "paulo.tavares@construtora.com.br", "name": "Paulo Tavares" },
+      "datetime": "2026-09-17T16:55:00",
+      "content": "Os discos acabaram hoje de manhã, é urgente."
+    },
+    {
+      "_id": 8,
+      "requisicaoId": 6,
+      "user": { "email": "juliana.freire@construtora.com.br", "name": "Juliana Freire" },
+      "datetime": "2026-09-19T10:40:00",
+      "content": "A lona pode ser entregue junto com os tubos."
+    },
+    {
+      "_id": 9,
+      "requisicaoId": 7,
+      "user": { "email": "ana.ribeiro@construtora.com.br", "name": "Ana Ribeiro" },
+      "datetime": "2026-09-22T09:30:00",
+      "content": "Confirmar se a tábua veio no comprimento pedido."
+    },
+    {
+      "_id": 10,
+      "requisicaoId": 8,
+      "user": { "email": "marcos.andrade@construtora.com.br", "name": "Marcos Andrade" },
+      "datetime": "2026-09-25T14:35:00",
+      "content": "Preciso do projeto elétrico provisório antes de aprovar."
+    }
+  ]
+}

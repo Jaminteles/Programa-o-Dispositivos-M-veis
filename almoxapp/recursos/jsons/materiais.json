@@ -1,0 +1,19 @@
+{
+  "materiais": [
+    { "_id": 1, "nome": "Cimento CP-II 50kg", "unidade": "saco", "saldo": 120 },
+    { "_id": 2, "nome": "Areia média lavada", "unidade": "m³", "saldo": 35 },
+    { "_id": 3, "nome": "Brita 1", "unidade": "m³", "saldo": 28 },
+    { "_id": 4, "nome": "Bloco cerâmico 9x19x19", "unidade": "un", "saldo": 4800 },
+    { "_id": 5, "nome": "Vergalhão CA-50 10mm", "unidade": "barra", "saldo": 210 },
+    { "_id": 6, "nome": "Arame recozido nº 18", "unidade": "kg", "saldo": 75 },
+    { "_id": 7, "nome": "Prego 17x27", "unidade": "kg", "saldo": 40 },
+    { "_id": 8, "nome": "Tábua de pinus 30cm", "unidade": "m", "saldo": 180 },
+    { "_id": 9, "nome": "Lona plástica preta", "unidade": "m", "saldo": 90 },
+    { "_id": 10, "nome": "Tinta acrílica branca 18L", "unidade": "lata", "saldo": 12 },
+    { "_id": 11, "nome": "Argamassa colante AC-II 20kg", "unidade": "saco", "saldo": 64 },
+    { "_id": 12, "nome": "Tubo PVC esgoto 100mm", "unidade": "barra", "saldo": 48 },
+    { "_id": 13, "nome": "Cabo flexível 2,5mm²", "unidade": "m", "saldo": 500 },
+    { "_id": 14, "nome": "Disco de corte 7\"", "unidade": "un", "saldo": 36 },
+    { "_id": 15, "nome": "Luva de raspa", "unidade": "par", "saldo": 60 }
+  ]
+}
